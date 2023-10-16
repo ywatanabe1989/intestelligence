@@ -1,5 +1,5 @@
 # Intestelligence: A Pharmacological Neural Network Using Intestine Data
-The source code accompanying the article "Intestelligence: A pharmacological neural network using intestine data".
+The source code accompanying the archive article ["Intestelligence: A pharmacological neural network using intestine data" (https://www.biorxiv.org/content/10.1101/2023.04.15.537044v1)](https://www.biorxiv.org/content/10.1101/2023.04.15.537044v1).
 
 #### Description
 This repository contains the implementation of PerceptronOrINN, a three-layer neural network model designed to operate both as a Perceptron and as an Intestine-based Neural Network (INN). The model can be used for various classification tasks and has been specifically optimized for pharmacological applications.
